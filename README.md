@@ -13,5 +13,6 @@ Pada script ini dilakukan sampling sebanyak
 0.3 baris data dari total populasi.
 
 #cara penggunaan
--Pindah ke directory lokasi script berada
--Ketikkan bash script.sh pada wsl atau git bash
+- Buka wsl atau git bash
+- Pindah ke directory lokasi script berada
+- Ketikkan bash script.sh
